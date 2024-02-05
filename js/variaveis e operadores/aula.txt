@@ -1,0 +1,6 @@
+let variavel que pode ser alterada
+
+const variavel que nao pode ser mudada
+
+operadores matematicos
++, -, *(multiplicaçao), /(divisao)
